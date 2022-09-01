@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
   
-  
    <img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
   <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -44,6 +43,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Max-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   
   <img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="right" alt="Max-gif" src="https://media.discordapp.net/attachments/866220132103225374/1014729788683980810/picasion.com_f0559ceb2422a577c8a662fcb5493edc.gif">
   
   
 
