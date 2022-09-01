@@ -1,4 +1,12 @@
-### Hi there 👋
+<div> 
+  <a href="https://www.instagram.com/obrmacs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/brmacs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/max-souza-4533b6196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+ </div>
+
+ I present to you some solutions that I developed with great care and dedication. 🌱 💚
 
 <!--
 **Maaacs/Maaacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +24,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/Maaacs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maaacs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaacs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maaacs&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaacs&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
   
@@ -41,12 +49,6 @@ Here are some ideas to get you started:
 
   ##
  
-<div> 
-  <a href="https://www.instagram.com/obrmacs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/brmacs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/max-souza-4533b6196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
- </div>
+
  
 
