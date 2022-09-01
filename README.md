@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   
  
 ![Snake animation](https://github.com/Maaacs/Maaacs/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
   
  </div>
