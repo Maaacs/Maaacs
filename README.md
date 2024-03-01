@@ -7,7 +7,7 @@
   
  </div>
 
- I present to you some solutions that I developed with great care and dedication. 🌱 💚
+ Developer 🌱 
 
 <!--
 **Maaacs/Maaacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
